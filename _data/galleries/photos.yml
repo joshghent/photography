@@ -1,0 +1,45 @@
+picture_path: photos
+preview:
+  filename: Photo-01
+  original: /originals/Photograph-1.jpg
+  thumbnail: /thumbnails/Photograph-1.jpg
+pictures:
+- filename: Photo-01
+  original: /originals/Photograph-1.jpg
+  thumbnail: /thumbnails/Photograph-1.jpg
+- filename: Photo-02
+  original: /originals/Photograph-2.jpg
+  thumbnail: /thumbnails/Photograph-2.jpg
+- filename: Photo-03
+  original: /originals/Photograph-3.jpg
+  thumbnail: /thumbnails/Photograph-3.jpg
+- filename: Photo-04
+  original: /originals/Photograph-4.jpg
+  thumbnail: /thumbnails/Photograph-4.jpg
+- filename: Photo-05
+  original: /originals/Photograph-5.jpg
+  thumbnail: /thumbnails/Photograph-5.jpg
+- filename: Photo-07
+  original: /originals/Photograph-7.jpg
+  thumbnail: /thumbnails/Photograph-7.jpg
+- filename: Photo-08
+  original: /originals/Photograph-8.jpg
+  thumbnail: /thumbnails/Photograph-8.jpg
+- filename: Photo-09
+  original: /originals/Photograph-9.jpg
+  thumbnail: /thumbnails/Photograph-9.jpg
+- filename: Photo-010
+  original: /originals/Photograph-10.jpg
+  thumbnail: /thumbnails/Photograph-10.jpg
+- filename: Photo-011
+  original: /originals/Photograph-11.jpg
+  thumbnail: /thumbnails/Photograph-11.jpg
+- filename: Photo-012
+  original: /originals/Photograph-12.jpg
+  thumbnail: /thumbnails/Photograph-12.jpg
+- filename: Photo-013
+  original: /originals/Photograph-13.jpg
+  thumbnail: /thumbnails/Photograph-13.jpg
+- filename: Photo-014
+  original: /originals/Photograph-14.jpg
+  thumbnail: /thumbnails/Photograph-14.jpg
