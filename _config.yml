@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Website for storing all my photograph work as I learn the
   craft.
 baseurl: "/photography" # the subpath of your site, e.g. /blog
-url: "//photos.joshghent.com" # the base hostname & protocol for your site
+url: "joshghent.github.io" # the base hostname & protocol for your site
 twitter_username: joshghent
 github_username:  joshghent
 website_url: "https://joshghent.com"
